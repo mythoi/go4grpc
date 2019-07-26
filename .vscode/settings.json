@@ -1,0 +1,18 @@
+{
+    "go.buildOnSave": "workspace",
+    "go.lintOnSave": "package",
+    "go.vetOnSave": "package",
+    "go.buildTags": "",
+    "go.buildFlags": [],
+    "go.lintFlags": [],
+    "go.vetFlags": [],
+    "go.coverOnSave": false,
+    "go.useCodeSnippetsOnFunctionSuggest": true,
+    "go.formatOnSave": true,
+    "go.formatTool": "goreturns",
+    "go.goroot": "F:\\InstallPath\\Go",
+    "go.gopath": "F:\\InstallPath\\GOPATH",
+    "go.gocodeAutoBuild": false,
+    "explorer.confirmDelete": false,
+    "files.autoSave": "onFocusChange",
+}
